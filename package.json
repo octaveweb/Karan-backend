@@ -1,0 +1,16 @@
+{
+  "name": "karanbackend",
+  "version": "1.0.0",
+  "description": "first backend project of backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "octaveweb"
+  ],
+  "author": "Karan Swarnakar",
+  "license": "ISC"
+}
